@@ -1,0 +1,30 @@
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\natha\source\repos\AuctionHouse\AuctionHouse\obj\Debug\net6.0\ref\AuctionHouse.dll
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\bin\Debug\net6.0\AuctionHouse.exe
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\bin\Debug\net6.0\AuctionHouse.deps.json
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\bin\Debug\net6.0\AuctionHouse.runtimeconfig.json
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\bin\Debug\net6.0\AuctionHouse.dll
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\bin\Debug\net6.0\AuctionHouse.pdb
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.csproj.AssemblyReference.cache
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.AssemblyInfoInputs.cache
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.AssemblyInfo.cs
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.csproj.CoreCompileInputs.cache
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.dll
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\refint\AuctionHouse.dll
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.pdb
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\AuctionHouse.genruntimeconfig.cache
+C:\Users\natha\Desktop\Assessment\Year 1\CAB201\Nathan Wang CAB201 Auction House\AuctionHouse\obj\Debug\net6.0\ref\AuctionHouse.dll

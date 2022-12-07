@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AuctionHouse.AdvertiseProduct">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAgAAAgAAAgAAAAAQQEAAAEAAAAAAEACAAAAAA=</HashCode>
+      <FileName>AdvertiseProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ClientMenu">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClientMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.Dialog" Collapsed="true">
+    <Position X="21.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAEAAAAAAAQAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dialog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AuctionHouse.ExitDialog" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExitDialog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AuctionHouse.LogOutDialog" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="24.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LogOutDialog.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="AuctionHouse.MainMenu">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAACAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.Menu" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAQAAAAAAASAAIAAAAIAAKAAASCAAAAA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.Product" Collapsed="true">
+    <Position X="26" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASgAAAAAABAAAAAjAAAAAAAAAEAAAAAIAAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ProductDatabase" Collapsed="true">
+    <Position X="27.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgIAEAAAAAACAEAAIAIAAAQAAAAAAAAAEJBBAAAA=</HashCode>
+      <FileName>ProductDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ProductList">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgAAAAAQAEAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.Purchase" Collapsed="true">
+    <Position X="27.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AJAAAAAEASAAAAAAAAAAAAABAAAAAAAAAEAAAAAIAAA=</HashCode>
+      <FileName>ProductPurchases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ProductSearch">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIwEKAAAQAEAAAkAABQAAAAAAAEACA=</HashCode>
+      <FileName>ProductSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.Program" Collapsed="true">
+    <Position X="23" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.RegisterMenu">
+    <Position X="7.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAACAAAAAAQQEAgAAAAACAAAAAABAAAA=</HashCode>
+      <FileName>RegisterMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.SignInMenu">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAACAAAAAAAAAAAUAEAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>SignInMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.User" Collapsed="true">
+    <Position X="26" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.UserDatabase" Collapsed="true">
+    <Position X="28.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgKAAAQAAAAAAAAAAAIAAAQAAAAAAAAIAAABAEAA=</HashCode>
+      <FileName>UserDatabase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyAddress" Collapsed="true">
+    <Position X="35" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAACAAAAAAIAQCIIAEMAAAAAAAAAAACAAAAhAAAAAA=</HashCode>
+      <FileName>VerifyAddress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyCurrency" Collapsed="true">
+    <Position X="26" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyCurrency.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyEmail" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyEmail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyInput" Collapsed="true">
+    <Position X="31" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyName" Collapsed="true">
+    <Position X="30.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyName.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyPassword" Collapsed="true">
+    <Position X="32.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyPassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.VerifyTime" Collapsed="true">
+    <Position X="36.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAQAAAEAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VerifyTime.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ViewBids">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAQAgAAAAAQAEAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewBids.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AuctionHouse.ViewPurchases">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAgEAAAAQAEAAAFAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ViewPurchases.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AuctionHouse.InterfaceDisplay" Collapsed="true">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>InterfaceDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
